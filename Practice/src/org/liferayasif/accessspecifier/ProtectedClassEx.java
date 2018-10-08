@@ -1,5 +1,5 @@
 package org.liferayasif.accessspecifier;
-
+ 
 public class ProtectedClassEx {
 
 	protected class ProctectedClss{
@@ -7,7 +7,7 @@ public class ProtectedClassEx {
 		private int i = 20;
 		
 		private void fun(){
-			System.out.println("fun: "+i);
+			System.out.println("fun i shahbaz changes: "+i);
 		}
 		
 		private void gum(){
